@@ -1,0 +1,7 @@
+npx create-expo-app . -t expo-template-blank-typescript
+
+npx expo install firebase
+
+npm install "@types/react-native"
+
+npm install "react-native-web@~0.19.6" "react-dom" --legacy-peer-deps
