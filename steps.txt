@@ -4,4 +4,15 @@ npx expo install firebase
 
 npm install "@types/react-native"
 
-npm install "react-native-web@~0.19.6" "react-dom" --legacy-peer-deps
+npm install "react-native-web@~0.19.6" "@react-navigation/native-stack" "react-dom" --legacy-peer-deps
+
+
+
+npx expo customize metro.config.js
+
+npx expo start OR OR OR npm start
+
+rnfe
+
+npx expo install "react-native-screens" "react-native-safe-area-context"
+
